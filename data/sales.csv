@@ -1,0 +1,16 @@
+sale_id,product,category,amount,sale_date
+S001,Laptop,Electronics,75000.00,2026-10-01
+S002,Mouse,Accessories,1200.00,2026-10-01
+S003,Keyboard,Accessories,2500.00,2026-10-01
+S004,Monitor,Electronics,18000.00,2026-10-02
+S005,Headphones,Accessories,3500.00,2026-10-02
+S006,Laptop,Electronics,82000.00,2026-10-02
+S007,Tablet,Electronics,32000.00,2026-10-03
+S008,Mouse,Accessories,1500.00,2026-10-03
+S009,Keyboard,Accessories,2800.00,2026-10-03
+S010,Monitor,Electronics,19500.00,2026-10-04
+S011,Headphones,Accessories,4200.00,2026-10-04
+S012,Laptop,Electronics,79000.00,2026-10-04
+S013,Tablet,Electronics,35000.00,2026-10-05
+S014,Mouse,Accessories,1300.00,2026-10-05
+S015,Monitor,Electronics,21000.00,2026-10-05

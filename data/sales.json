@@ -1,0 +1,17 @@
+[
+  {"sale_id":"S001","product":"Laptop","category":"Electronics","amount":75000.00,"sale_date":"2026-10-01"},
+  {"sale_id":"S002","product":"Mouse","category":"Accessories","amount":1200.00,"sale_date":"2026-10-01"},
+  {"sale_id":"S003","product":"Keyboard","category":"Accessories","amount":2500.00,"sale_date":"2026-10-01"},
+  {"sale_id":"S004","product":"Monitor","category":"Electronics","amount":18000.00,"sale_date":"2026-10-02"},
+  {"sale_id":"S005","product":"Headphones","category":"Accessories","amount":3500.00,"sale_date":"2026-10-02"},
+  {"sale_id":"S006","product":"Laptop","category":"Electronics","amount":82000.00,"sale_date":"2026-10-02"},
+  {"sale_id":"S007","product":"Tablet","category":"Electronics","amount":32000.00,"sale_date":"2026-10-03"},
+  {"sale_id":"S008","product":"Mouse","category":"Accessories","amount":1500.00,"sale_date":"2026-10-03"},
+  {"sale_id":"S009","product":"Keyboard","category":"Accessories","amount":2800.00,"sale_date":"2026-10-03"},
+  {"sale_id":"S010","product":"Monitor","category":"Electronics","amount":19500.00,"sale_date":"2026-10-04"},
+  {"sale_id":"S011","product":"Headphones","category":"Accessories","amount":4200.00,"sale_date":"2026-10-04"},
+  {"sale_id":"S012","product":"Laptop","category":"Electronics","amount":79000.00,"sale_date":"2026-10-04"},
+  {"sale_id":"S013","product":"Tablet","category":"Electronics","amount":35000.00,"sale_date":"2026-10-05"},
+  {"sale_id":"S014","product":"Mouse","category":"Accessories","amount":1300.00,"sale_date":"2026-10-05"},
+  {"sale_id":"S015","product":"Monitor","category":"Electronics","amount":21000.00,"sale_date":"2026-10-05"}
+]
